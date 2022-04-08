@@ -1,3 +1,7 @@
+
+## Documentation 
+https://technostuf.com/angular-12-tinymce-integration-with-an-example/
+
 # TinymceAngularDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
